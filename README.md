@@ -1,5 +1,7 @@
 Hi I'm Kante 👋
 
+🌱 I’m currently learning Vue...
+
 <!--
 **Smalldayvid/Smalldayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
